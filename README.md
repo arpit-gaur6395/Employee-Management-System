@@ -18,5 +18,5 @@ o	Action Buttons:
 3.	Database Operations: 
 o	The application connects to a MySQL database (employee_management) hosted locally. 
 o	It creates a table (ems) to store employee records if it does not already exist. 
-o	Supports insertion, deletion, and retrieval of employee records using SQL queries executed through the MySQL Connector library (mysql.connector). 
+o	Supports insertion, deletion, and retrieval of employee records using SQL queries executed through the MySQL Connector library (mysql.connector). .
 
